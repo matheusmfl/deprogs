@@ -8,7 +8,7 @@ export const NavContainer = styled("nav", {
   flexDirection: "column",
   alignItems: "center",
   background: "linear-gradient(180deg, #8633FF 0%, #FF783C 71.35%)",
-  width: "93px",
+  minWidth: "93px",
   height: "100%",
   button: {
     border: "none",

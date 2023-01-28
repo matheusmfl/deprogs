@@ -33,7 +33,11 @@ export default function Header() {
           </PlayButton>
         </div>
 
-        <Image src={dlogo} alt="Letra D com um raio, logo da Deprogs" />
+        <Image
+          src={dlogo}
+          alt="Letra D com um raio, logo da Deprogs"
+          style={{ maxWidth: "498px", maxHeight: "588px", overflow: "hidden" }}
+        />
       </div>
 
       <div className={styles.asideHeader}>

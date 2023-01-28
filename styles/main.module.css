@@ -1,0 +1,7 @@
+.mainContainer {
+  background-image: url("../public/heroSectionBackground.png");
+  background-size: cover;
+  background-position: left;
+  padding-left: 10.375rem !important;
+  padding-bottom: 160px !important;
+}
